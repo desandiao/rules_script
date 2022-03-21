@@ -16,5 +16,5 @@ QuantumultX
 
 Rules：https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Formula%201/Formula1.list
 
-icon：https://github.com/desandiao/rules_script/blob/main/QuantumultX/Formula%201/F1.png
+icon：https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Formula%201/F1.png
 
