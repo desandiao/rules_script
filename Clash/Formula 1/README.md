@@ -13,3 +13,5 @@ Suggestions are welcome
 欢迎提出建议
 
 Clash
+
+https://raw.githubusercontent.com/desandiao/rules_script/main/Clash/Formula%201/Formula%201.yaml
