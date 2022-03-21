@@ -1,5 +1,9 @@
 # rules_script
 
+Some collected rules, not guaranteed to be complete
+
+一些收集到的规则，并不保证完整
+
 Please abide by the relevant laws of the place of use.
 
 请遵守使用地的相关法律
@@ -12,4 +16,4 @@ Suggestions are welcome
 
 欢迎提出建议
 
-Have a good day!!
+# Cash Is King
