@@ -14,4 +14,4 @@ Suggestions are welcome
 
 QuantumultX
 
-https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Formula%201/Formula%201.list
+https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Formula%201/Formula1.list
