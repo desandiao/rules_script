@@ -1,41 +1,28 @@
   - DOMAIN-KEYWORD,formula1.com,Formula 1
-  - DOMAIN-SUFFIX,formula1.com,Formula 1
+  - DOMAIN-KEYWORD,formula1,Formula 1
+  - DOMAIN-KEYWORD,f1tv.com,Formula 1
+  - DOMAIN-KEYWORD,f1tv,Formula 1  
+  - DOMAIN-KEYWORD,formula1.com,Formula 1
   - DOMAIN-KEYWORD,formula1,Formula 1
   - DOMAIN-KEYWORD,f1.com,Formula 1
-  - DOMAIN-KEYWORD,f1tv.com,Formula 1
-  - DOMAIN,support.f1.tv,Formula 1
+  - DOMAIN,support.f1.tv,Formula 1  
   - DOMAIN,engage.talkactive.uk,Formula 1
   - DOMAIN,f1-api-cdn.opin.media,Formula 1
   - DOMAIN-KEYWORD,f1tv,Formula 1
   - DOMAIN,f1tv.formula1.com,Formula 1
   - DOMAIN,consent.trustarc.com,Formula 1
   - DOMAIN,jssdk.opin.media,Formula 1
-  - DOMAIN,consent.trustarc.com,Formula 1
-  - DOMAIN,analytics-ingress-global.bitmovin.com,Formula 1
-  - DOMAIN,licensing.bitmovin.com,Formula 1
-  - DOMAIN,f1experiences.com,Formula 1
-  - DOMAIN-KEYWORD,formula1.com,Formula 1
-  - DOMAIN-SUFFIX,formula1.com,Formula 1
-  - DOMAIN-KEYWORD,formula1,Formula 1
-  - DOMAIN-KEYWORD,f1.com,Formula 1
-  - DOMAIN-KEYWORD,f1tv.com,Formula 1
-  - DOMAIN,engage.talkactive.uk,Formula 1
-  - DOMAIN-KEYWORD,f1tv,Formula 1
-  - DOMAIN,jssdk.opin.media,Formula 1
-  - DOMAIN,licensing.bitmovin.com,Formula 1
-  - DOMAIN,f1experiences.com,Formula 1
+  - DOMAIN,f1experiences.com,Formula 1  
   - DOMAIN,ott-img.formula1.com,Formula 1
   - DOMAIN,bam.nr-data.net,Formula 1
   - DOMAIN,ott-video-fer-cf.formula1.com,Formula 1
   - DOMAIN,licensing.bitmovin.com,Formula 1
-  - DOMAIN,f1experiences.com,Formula 1
   - DOMAIN,unpkg.com,Formula 1
   - DOMAIN,js.stripe.com,Formula 1
   - DOMAIN,m.stripe.network,Formula 1
   - DOMAIN,tickets.formula1.com,Formula 1
   - DOMAIN,static.hotjar.com,Formula 1
   - DOMAIN,weatherwidget.io,Formula 1
-  - DOMAIN,sb.scorecardresearch.com,Formula 1
   - DOMAIN,assets.queue-it.net,Formula 1
   - DOMAIN,aa.trkn.us,Formula 1
   - DOMAIN,vars.hotjar.com,Formula 1
@@ -43,36 +30,32 @@
   - DOMAIN,platiniumgroup.queue-it.net,Formula 1
   - DOMAIN,www.f1authentics.com,Formula 1
   - DOMAIN,eu-west-1-perf-api.queue-it.net,Formula 1
-  - DOMAIN,stats.g.doubleclick.net,Formula 1
+  - DOMAIN-SUFFIX,doubleclick.net,Formula 1
   - DOMAIN,cdn.shopify.com,Formula 1
   - DOMAIN,v2.zopim.com,Formula 1
   - DOMAIN,vc.hotjar.io,Formula 1
   - DOMAIN,fonts.shopifycdn.com,Formula 1
-  - DOMAIN,monorail-edge.shopifysvc.com,Formula 1
   - DOMAIN,kit.fontawesome.com,Formula 1
   - DOMAIN,in.hotjar.com,Formula 1
   - DOMAIN,static.zdassets.com,Formula 1
-  - DOMAIN,sb.scorecardresearch.com,Formula 1
   - DOMAIN,r1-t.trackedlink.net,Formula 1
   - DOMAIN,js-agent.newrelic.com,Formula 1
   - DOMAIN,ka-f.fontawesome.com,Formula 1
   - DOMAIN,ekr.zdassets.com,Formula 1
-  - DOMAIN,eu-library.klarnaservices.com,Formula 1
   - DOMAIN,pi.pardot.com,Formula 1
-  - DOMAIN,evt-eu.klarnaservices.com,Formula 1
+  - DOMAIN-SUFFIX,klarnaservices.com,Formula 1
   - DOMAIN,vod-progressive.akamaized.net,Formula 1
   - DOMAIN,shop.app,Formula 1
   - DOMAIN,monorail-edge.shopifysvc.com,Formula 1
   - DOMAIN,widget-mediator.zopim.com,Formula 1
   - DOMAIN,go.quintevents.com,Formula 1
-  - DOMAIN,production-klarna-il-shopify-osm.s3.eu-west-1.amazonaws.com,Formula 1
+  - DOMAIN-SUFFIX,s3.eu-west-1.amazonaws.com,Formula 1
   - DOMAIN,tickets.formula1.com,Formula 1
   - DOMAIN,ocw.messagebird.com,Formula 1
   - DOMAIN,pushpromjs.messagebird.com,Formula 1
   - DOMAIN,messaging.messagebird.com,Formula 1
   - DOMAIN,polyfill.io,Formula 1
   - DOMAIN,o113111.ingest.sentry.io,Formula 1
-  - DOMAIN,s3.eu-west-1.amazonaws.com,Formula 1
   - DOMAIN,geolocation-recommendations.shopifycloud.com,Formula 1
   - DOMAIN,us.f1authentics.com,Formula 1
   - DOMAIN,cdnjs.cloudflare.com,Formula 1
@@ -82,21 +65,19 @@
   - DOMAIN,crl.comodoca.com,Formula 1
   - DOMAIN,content.shoprunner.com,Formula 1
   - DOMAIN,res.cloudinary.com,Formula 1
-  - DOMAIN,eu-engage-app.s3.eu-west-2.amazonaws.com,Formula 1
-  - DOMAIN,eu.engage.app,Formula 1
   - DOMAIN,talkative-cdn.com,Formula 1 
-  - DOMAIN,app-measurement.com,Formula 1
   - DOMAIN,d2n9h2wits23hf.cloudfront.net,Formula 1
   - DOMAIN,manifest.prod.boltdns.net,Formula 1
-  - DOMAIN,securepubads.g.doubleclick.net,Formula 1
-  - DOMAIN,edge.api.brightcove.com,Formula 1
   - DOMAIN,devices.carnivalmobile.com,Formula 1
   - DOMAIN,mobile-collector.newrelic.com,Formula 1
-   -DOMAIN,edigitalsurvey.com,Formula 1
-   -DOMAIN,trustarc.mgr.consensu.org,Formula 1
-   -DOMAIN,sb.voicefive.com,Formula 1
-   -DOMAIN,code.createjs.com,Formula 1
-   -DOMAIN,edigitalsurvey.com,Formula 1
-   -DOMAIN,cdp.cloud.unity3d.com,Formula 1
-   -DOMAIN,metrics.brightcove.com,Formula 1
-   -DOMAIN,mobile-collector.newrelic.com,Formula 1
+  - DOMAIN,trustarc.mgr.consensu.org,Formula 1
+  - DOMAIN,sb.voicefive.com,Formula 1
+#F1 可能是广告
+  - DOMAIN,analytics-ingress-global.bitmovin.com,Formula 1
+  - DOMAIN,sb.scorecardresearch.com,Formula 1
+  - DOMAIN,app-measurement.com,Formula 1
+  - DOMAIN,edge.api.brightcove.com,Formula 1
+  - DOMAIN,code.createjs.com,Formula 1
+  - DOMAIN,edigitalsurvey.com,Formula 1
+  - DOMAIN,cdp.cloud.unity3d.com,Formula 1
+  - DOMAIN,metrics.brightcove.com,Formula 1
