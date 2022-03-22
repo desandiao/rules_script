@@ -16,7 +16,6 @@
   - DOMAIN,ott-img.formula1.com,Formula 1
   - DOMAIN,bam.nr-data.net,Formula 1
   - DOMAIN,ott-video-fer-cf.formula1.com,Formula 1
-  - DOMAIN,licensing.bitmovin.com,Formula 1
   - DOMAIN,unpkg.com,Formula 1
   - DOMAIN,js.stripe.com,Formula 1
   - DOMAIN,m.stripe.network,Formula 1
@@ -30,7 +29,6 @@
   - DOMAIN,platiniumgroup.queue-it.net,Formula 1
   - DOMAIN,www.f1authentics.com,Formula 1
   - DOMAIN,eu-west-1-perf-api.queue-it.net,Formula 1
-  - DOMAIN-SUFFIX,doubleclick.net,Formula 1
   - DOMAIN,cdn.shopify.com,Formula 1
   - DOMAIN,v2.zopim.com,Formula 1
   - DOMAIN,vc.hotjar.io,Formula 1
@@ -72,8 +70,10 @@
   - DOMAIN,mobile-collector.newrelic.com,Formula 1
   - DOMAIN,trustarc.mgr.consensu.org,Formula 1
   - DOMAIN,sb.voicefive.com,Formula 1
-#F1 可能是广告
+  - DOMAIN,ping.chartbeat.net,Formula 1
+#The following may be advertising rules,可能是广告
   - DOMAIN,analytics-ingress-global.bitmovin.com,Formula 1
+  - DOMAIN,licensing.bitmovin.com,Formula 1
   - DOMAIN,sb.scorecardresearch.com,Formula 1
   - DOMAIN,app-measurement.com,Formula 1
   - DOMAIN,edge.api.brightcove.com,Formula 1
