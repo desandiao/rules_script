@@ -71,6 +71,33 @@
   - DOMAIN,trustarc.mgr.consensu.org,Formula 1
   - DOMAIN,sb.voicefive.com,Formula 1
   - DOMAIN,ping.chartbeat.net,Formula 1
+#Grand Prix
+  - DOMAIN-SUFFIX,bahraingp.com,Formula 1
+  - DOMAIN-SUFFIX,saudiarabiangp.com,Formula 1
+  - DOMAIN-SUFFIX,grandprix.com.au,Formula 1
+  - DOMAIN-SUFFIX,autodromoimola.it,Formula 1
+  - DOMAIN-SUFFIX,f1miamigp.com,Formula 1
+  - DOMAIN-SUFFIX,circuitcat.com,Formula 1
+  - DOMAIN-SUFFIX,formula1monaco.com,Formula 1
+  - DOMAIN-SUFFIX,monacograndprixticket.com,Formula 1
+  - DOMAIN-SUFFIX,bakucitycircuit.com,Formula 1
+  - DOMAIN-SUFFIX,gpcanada.ca,Formula 1
+  - DOMAIN-SUFFIX,montrealgrandprix.com,Formula 1
+  - DOMAIN-SUFFIX,silverstone.co.uk,Formula 1
+  - DOMAIN-SUFFIX,f1austria.com,Formula 1
+  - DOMAIN-SUFFIX,gpfrance.com,Formula 1
+  - DOMAIN-SUFFIX,hungaroring.hu,Formula 1
+  - DOMAIN-SUFFIX,spagrandprix.com,Formula 1
+  - DOMAIN-SUFFIX,dutchgp.com,Formula 1
+  - DOMAIN-SUFFIX,monzanet.it,Formula 1
+  - DOMAIN-SUFFIX,singaporegp.sg,Formula 1
+  - DOMAIN-SUFFIX,suzukacircuit.jp,Formula 1
+  - DOMAIN-SUFFIX,circuitoftheamericas.com,Formula 1
+  - DOMAIN-SUFFIX,mexicogp.mx,Formula 1
+  - DOMAIN-SUFFIX,f1saopaulo.com.br,Formula 1
+  - DOMAIN-SUFFIX,yasmarinacircuit.com,Formula 1
+  - DOMAIN-SUFFIX,rosgonki.ru,Formula 1
+  - DOMAIN-SUFFIX,f1lasvegasgrandprix.com,Formula 1
 #The following may be advertising rules,可能是广告
   - DOMAIN,analytics-ingress-global.bitmovin.com,Formula 1
   - DOMAIN,licensing.bitmovin.com,Formula 1
