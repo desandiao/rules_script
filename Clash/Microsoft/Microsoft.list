@@ -1,5 +1,3 @@
-
-DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
 DOMAIN-SUFFIX,a122.dscg3.akamai.net
@@ -43,7 +41,6 @@ DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b.akamaiedge.net
-DOMAIN-SUFFIX,bbing.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -53,26 +50,6 @@ DOMAIN-SUFFIX,biing.com
 DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing123.com
-DOMAIN-SUFFIX,bing135.com
-DOMAIN-SUFFIX,bing4.com
-DOMAIN-SUFFIX,bingads.com
-DOMAIN-SUFFIX,bingagencyawards.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,bingapistatistics.com
-DOMAIN-SUFFIX,binginternal.com
-DOMAIN-SUFFIX,bingit.net
-DOMAIN-SUFFIX,bingiton.com
-DOMAIN-SUFFIX,bingj.com
-DOMAIN-SUFFIX,bingpix.com
-DOMAIN-SUFFIX,bingpk.com
-DOMAIN-SUFFIX,bings.com
-DOMAIN-SUFFIX,bingsandbox.com
-DOMAIN-SUFFIX,bingtoolbar.com
-DOMAIN-SUFFIX,bingtranslator.com
-DOMAIN-SUFFIX,bingvisualsearch.com
-DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,bluehatil.com
 DOMAIN-SUFFIX,bluehatnights.com
@@ -102,7 +79,6 @@ DOMAIN-SUFFIX,cs9.wac.phicdn.net
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,dictate.ms
-DOMAIN-SUFFIX,discoverbing.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dwh5.com
@@ -112,7 +88,6 @@ DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
-DOMAIN-SUFFIX,explorebing.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
@@ -158,7 +133,6 @@ DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,latampartneruniversity.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
 DOMAIN-SUFFIX,livingyourambition.com
 DOMAIN-SUFFIX,localytics.com
@@ -272,7 +246,6 @@ DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,msvevent.com
-DOMAIN-SUFFIX,msxiaobing.com
 DOMAIN-SUFFIX,msxiaoice.com
 DOMAIN-SUFFIX,msxiaona.cn
 DOMAIN-SUFFIX,mwf-service.akamaized.net
@@ -299,7 +272,6 @@ DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
@@ -344,12 +316,9 @@ DOMAIN-SUFFIX,serverlesslibrary.net
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,staffhub.ms
@@ -403,7 +372,6 @@ DOMAIN-SUFFIX,windowssearch.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winmp.cn
 DOMAIN-SUFFIX,wlxrs.com
-DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,xbox.com
@@ -416,9 +384,5 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,onedrive
-PROCESS-NAME,onedriveupdater
