@@ -14,4 +14,4 @@ Suggestions are welcome
 
 Clash
 
-https://raw.githubusercontent.com/desandiao/rules_script/main/Clash/Formula%201/Formula1.yaml
+https://raw.githubusercontent.com/desandiao/rules_script/main/Clash/Formula1/Formula1.yaml
