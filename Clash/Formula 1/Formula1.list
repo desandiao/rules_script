@@ -99,12 +99,4 @@ DOMAIN-SUFFIX,yasmarinacircuit.com,Formula 1
 DOMAIN-SUFFIX,rosgonki.ru,Formula 1
 DOMAIN-SUFFIX,f1lasvegasgrandprix.com,Formula 1
 #following may be advertising rules,可能是广告
-DOMAIN,analytics-ingress-global.bitmovin.com,Formula 1
-DOMAIN,licensing.bitmovin.com,Formula 1
 DOMAIN,sb.scorecardresearch.com,Formula 1
-DOMAIN,app-measurement.com,Formula 1
-DOMAIN,edge.api.brightcove.com,Formula 1
-DOMAIN,code.createjs.com,Formula 1
-DOMAIN,edigitalsurvey.com,Formula 1
-DOMAIN,cdp.cloud.unity3d.com,Formula 1
-DOMAIN,metrics.brightcove.com,Formula 1
