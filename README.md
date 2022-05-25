@@ -1,4 +1,4 @@
-# rules_script
+# Welcome
 
 Some collected rules, not guaranteed to be complete
 
@@ -16,4 +16,4 @@ Suggestions are welcome
 
 欢迎提出建议
 
-# Welcome
+
