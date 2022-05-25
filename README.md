@@ -16,4 +16,4 @@ Suggestions are welcome
 
 欢迎提出建议
 
-# Cash Is King
+# Welcome
