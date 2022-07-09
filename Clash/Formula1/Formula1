@@ -71,6 +71,7 @@ DOMAIN,mobile-collector.newrelic.com,Formula 1
 DOMAIN,trustarc.mgr.consensu.org,Formula 1
 DOMAIN,sb.voicefive.com,Formula 1
 DOMAIN,ping.chartbeat.net,Formula 1
+DOMAIN,f1prodlive.akamaized.net,Formula 1
 #grand Prix
 DOMAIN-SUFFIX,bahraingp.com,Formula 1
 DOMAIN-SUFFIX,saudiarabiangp.com,Formula 1
