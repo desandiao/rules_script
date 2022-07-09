@@ -71,6 +71,7 @@ HOST,mobile-collector.newrelic.com,Formula 1
 HOST,trustarc.mgr.consensu.org,Formula 1
 HOST,sb.voicefive.com,Formula 1
 HOST,ping.chartbeat.net,Formula 1
+HOST,f1prodlive.akamaized.net,Formula 1
 #grand Prix
 HOST-SUFFIX,bahraingp.com,Formula 1
 HOST-SUFFIX,saudiarabiangp.com,Formula 1
