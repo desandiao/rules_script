@@ -4,11 +4,11 @@
  * 	
  * Surge：
 [Script]	
-彩云天气SVIP = type=http-response,requires-body=1,max-size=0,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/CaiYun.js
+彩云天气SVIP = type=http-response,requires-body=1,max-size=0,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Weather/weathersvip.js
  * 
  * Loon：
 [Script]	
-http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/CaiYun.js,requires-body=1, tag=彩云天气SVIP	
+http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Weather/weathersvip.js,requires-body=1, tag=彩云天气SVIP	
  */	
  
 
