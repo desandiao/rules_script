@@ -1,5 +1,8 @@
 DOMAIN-SUFFIX,bbing.com
+DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bing135.com
 DOMAIN-SUFFIX,bing4.com
@@ -21,5 +24,5 @@ DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,discoverbing.com
 DOMAIN-SUFFIX,explorebing.com
-DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,msxiaobing.com
+DOMAIN-SUFFIX,working-bing-int.com
