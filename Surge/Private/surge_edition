@@ -1,0 +1,55 @@
+#策略
+🇭🇰 HongKong = select, update-interval=432000, policy-regex-filter=(香港|港|HK|Hong Kong)
+♣️ AnotherHK = select, update-interval=432000, policy-regex-filter=(香港|港|HK|Hong Kong)
+🇯🇵 Japan = select, update-interval=432000, policy-regex-filter=(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)
+🇺🇸 UnitedStates = select, update-interval=432000, policy-regex-filter=(美|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
+🇰🇷 Korea = select, update-interval=432000, policy-regex-filter=(KR|Korea|KOR|首尔|韩|韓)
+🇨🇳 TaiWan = select, update-interval=432000, policy-regex-filter=(台|台湾|新北|彰化|TW|Taiwan)
+🇸🇬 Singapore = select, update-interval=432000, policy-regex-filter=(新加坡|坡|狮城|SG|Singapore)
+
+
+#策略组
+🇨🇳 China = select, DIRECT, REJECT
+Microsoft = select, DIRECT, 🇭🇰 HongKong
+Onedrive = select, DIRECT, 🇭🇰 HongKong
+Netflix = select, 🇨🇳 TaiWan, 🇭🇰 HongKong, 🇺🇸 UnitedStates, 🇸🇬 Singapore, 🇯🇵 Japan
+Disney = select, 🇸🇬 Singapore, 🇯🇵 Japan, 🇭🇰 HongKong, 🇨🇳 TaiWan, 🇺🇸 UnitedStates
+Apple = select, DIRECT, 🇭🇰 HongKong, 🇨🇳 TaiWan, 🇺🇸 UnitedStates, 🇸🇬 Singapore, 🇯🇵 Japan, REJECT
+Game = select, DIRECT, 🇭🇰 HongKong
+Block = select, REJECT, DIRECT, 🇺🇸 UnitedStates, 🇭🇰 HongKong
+
+# >去广告
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list,Block,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising_Domain.list,Block,update-interval=432000
+# > 🇭🇰 HongKong
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/desandiao/rules_script/main/Clash/Flightradar24/FR24.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list,🇭🇰 HongKong,update-interval=432000
+# >🇺🇸 UnitedStates
+RULE-SET,https://raw.githubusercontent.com/desandiao/rules_script/main/Clash/Formula1/Formula1.list,🇺🇸 UnitedStates,update-interval=432000
+# > Miciosoft
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list,Microsoft,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.list,Onedrive,update-interval=432000
+# > Apple
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list,Apple,update-interval=432000
+# > telegram
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list,♣️ AnotherHK,update-interval=432000
+# > GAME
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,Game,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list,Game,update-interval=432000
+# > Media
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list,Netflix,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list,Disney,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_Domain.list,🇭🇰 HongKong,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list,🇺🇸 UnitedStates,update-interval=432000
+# > China
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China.list,🇨🇳 China,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list,🇨🇳 China,update-interval=432000
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list,🇨🇳 China,update-interval=432000
+# >
+GEOIP,CN,DIRECT
+FINAL,🇭🇰 HongKong
