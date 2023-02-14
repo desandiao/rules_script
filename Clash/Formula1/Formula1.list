@@ -1,103 +1,100 @@
-DOMAIN-KEYWORD,formula1.com,Formula 1
-DOMAIN-KEYWORD,formula1,Formula 1
-DOMAIN-KEYWORD,f1tv.com,Formula 1
-DOMAIN-KEYWORD,f1tv,Formula 1  
-DOMAIN-KEYWORD,formula1.com,Formula 1
-DOMAIN-KEYWORD,formula1,Formula 1
-DOMAIN-KEYWORD,f1.com,Formula 1
-DOMAIN,support.f1.tv,Formula 1  
-DOMAIN,engage.talkactive.uk,Formula 1
-DOMAIN,f1-api-cdn.opin.media,Formula 1
-DOMAIN-KEYWORD,f1tv,Formula 1
-DOMAIN,f1tv.formula1.com,Formula 1
-DOMAIN,consent.trustarc.com,Formula 1
-DOMAIN,jssdk.opin.media,Formula 1
-DOMAIN,f1experiences.com,Formula 1  
-DOMAIN,ott-img.formula1.com,Formula 1
-DOMAIN,bam.nr-data.net,Formula 1
-DOMAIN,ott-video-fer-cf.formula1.com,Formula 1
-DOMAIN,unpkg.com,Formula 1
-DOMAIN,js.stripe.com,Formula 1
-DOMAIN,m.stripe.network,Formula 1
-DOMAIN,tickets.formula1.com,Formula 1
-DOMAIN,static.hotjar.com,Formula 1
-DOMAIN,weatherwidget.io,Formula 1
-DOMAIN,assets.queue-it.net,Formula 1
-DOMAIN,aa.trkn.us,Formula 1
-DOMAIN,vars.hotjar.com,Formula 1
-DOMAIN,script.hotjar.com,Formula 1
-DOMAIN,platiniumgroup.queue-it.net,Formula 1
-DOMAIN,www.f1authentics.com,Formula 1
-DOMAIN,eu-west-1-perf-api.queue-it.net,Formula 1
-DOMAIN,cdn.shopify.com,Formula 1
-DOMAIN,v2.zopim.com,Formula 1
-DOMAIN,vc.hotjar.io,Formula 1
-DOMAIN,fonts.shopifycdn.com,Formula 1
-DOMAIN,kit.fontawesome.com,Formula 1
-DOMAIN,in.hotjar.com,Formula 1
-DOMAIN,static.zdassets.com,Formula 1
-DOMAIN,r1-t.trackedlink.net,Formula 1
-DOMAIN,js-agent.newrelic.com,Formula 1
-DOMAIN,ka-f.fontawesome.com,Formula 1
-DOMAIN,ekr.zdassets.com,Formula 1
-DOMAIN,pi.pardot.com,Formula 1
-DOMAIN-SUFFIX,klarnaservices.com,Formula 1
-DOMAIN,vod-progressive.akamaized.net,Formula 1
-DOMAIN,shop.app,Formula 1
-DOMAIN,monorail-edge.shopifysvc.com,Formula 1
-DOMAIN,widget-mediator.zopim.com,Formula 1
-DOMAIN,go.quintevents.com,Formula 1
-DOMAIN-SUFFIX,s3.eu-west-1.amazonaws.com,Formula 1
-DOMAIN,tickets.formula1.com,Formula 1
-DOMAIN,ocw.messagebird.com,Formula 1
-DOMAIN,pushpromjs.messagebird.com,Formula 1
-DOMAIN,messaging.messagebird.com,Formula 1
-DOMAIN,polyfill.io,Formula 1
-DOMAIN,o113111.ingest.sentry.io,Formula 1
-DOMAIN,geolocation-recommendations.shopifycloud.com,Formula 1
-DOMAIN,us.f1authentics.com,Formula 1
-DOMAIN,cdnjs.cloudflare.com,Formula 1
-DOMAIN,option.boldapps.net,Formula 1
-DOMAIN,godog.shopifycloud.com,Formula 1
-DOMAIN,code.jquery.com,Formula 1
-DOMAIN,crl.comodoca.com,Formula 1
-DOMAIN,content.shoprunner.com,Formula 1
-DOMAIN,res.cloudinary.com,Formula 1
-DOMAIN,talkative-cdn.com,Formula 1 
-DOMAIN,d2n9h2wits23hf.cloudfront.net,Formula 1
-DOMAIN,manifest.prod.boltdns.net,Formula 1
-DOMAIN,devices.carnivalmobile.com,Formula 1
-DOMAIN,mobile-collector.newrelic.com,Formula 1
-DOMAIN,trustarc.mgr.consensu.org,Formula 1
-DOMAIN,sb.voicefive.com,Formula 1
-DOMAIN,ping.chartbeat.net,Formula 1
-DOMAIN,f1prodlive.akamaized.net,Formula 1
-#grand Prix
-DOMAIN-SUFFIX,bahraingp.com,Formula 1
-DOMAIN-SUFFIX,saudiarabiangp.com,Formula 1
-DOMAIN-SUFFIX,grandprix.com.au,Formula 1
-DOMAIN-SUFFIX,autodromoimola.it,Formula 1
-DOMAIN-SUFFIX,f1miamigp.com,Formula 1
-DOMAIN-SUFFIX,circuitcat.com,Formula 1
-DOMAIN-SUFFIX,formula1monaco.com,Formula 1
-DOMAIN-SUFFIX,monacograndprixticket.com,Formula 1
-DOMAIN-SUFFIX,bakucitycircuit.com,Formula 1
-DOMAIN-SUFFIX,gpcanada.ca,Formula 1
-DOMAIN-SUFFIX,montrealgrandprix.com,Formula 1
-DOMAIN-SUFFIX,silverstone.co.uk,Formula 1
-DOMAIN-SUFFIX,f1austria.com,Formula 1
-DOMAIN-SUFFIX,gpfrance.com,Formula 1
-DOMAIN-SUFFIX,hungaroring.hu,Formula 1
-DOMAIN-SUFFIX,spagrandprix.com,Formula 1
-DOMAIN-SUFFIX,dutchgp.com,Formula 1
-DOMAIN-SUFFIX,monzanet.it,Formula 1
-DOMAIN-SUFFIX,singaporegp.sg,Formula 1
-DOMAIN-SUFFIX,suzukacircuit.jp,Formula 1
-DOMAIN-SUFFIX,circuitoftheamericas.com,Formula 1
-DOMAIN-SUFFIX,mexicogp.mx,Formula 1
-DOMAIN-SUFFIX,f1saopaulo.com.br,Formula 1
-DOMAIN-SUFFIX,yasmarinacircuit.com,Formula 1
-DOMAIN-SUFFIX,rosgonki.ru,Formula 1
-DOMAIN-SUFFIX,f1lasvegasgrandprix.com,Formula 1
-#following may be advertising rules,可能是广告
-DOMAIN,sb.scorecardresearch.com,Formula 1
+DOMAIN-KEYWORD,formula1.com
+DOMAIN-KEYWORD,formula1
+DOMAIN-KEYWORD,f1tv.com
+DOMAIN-KEYWORD,f1tv
+DOMAIN-KEYWORD,formula1.com
+DOMAIN,support.f1.tv
+DOMAIN,f1-api-cdn.opin.media
+
+#ACL4SSR
+DOMAIN-SUFFIX,f1.com
+DOMAIN-SUFFIX,formula1.com
+DOMAIN-SUFFIX,f1experiences.com
+DOMAIN-SUFFIX,f1authentics.com
+DOMAIN-SUFFIX,fiaformula1.com
+DOMAIN-SUFFIX,fiaformula2.com
+DOMAIN-SUFFIX,fiaformula3.com
+DOMAIN-SUFFIX,f1esports.com
+DOMAIN-SUFFIX,f1manager.com
+DOMAIN-SUFFIX,f1play.com
+DOMAIN-SUFFIX,bitmovin.com
+DOMAIN,d2n9h2wits23hf.cloudfront.net
+DOMAIN,f1prodlive.akamaized.net
+
+# 🇧🇭 Bahrain Grand Prix
+DOMAIN-SUFFIX,bahraingp.com
+
+# 🇸🇦 Saudi Arabian Grand Prix
+DOMAIN-SUFFIX,saudiarabiangp.com
+
+# 🇦🇺 Australian Grand Prix
+DOMAIN-SUFFIX,grandprix.com.au
+
+# 🇮🇹 Emilia Romagna Grand Prix
+DOMAIN-SUFFIX,autodromoimola.it
+
+# 🇺🇸 Miami Grand Prix
+DOMAIN-SUFFIX,f1miamigp.com
+
+# 🇪🇸 Spanish Grand Prix
+DOMAIN-SUFFIX,circuitcat.com
+
+# 🇲🇨 Monaco Grand Prix
+DOMAIN-SUFFIX,formula1monaco.com
+DOMAIN-SUFFIX,monacograndprixticket.com
+
+# 🇦🇿 Azerbaijan Grand Prix
+DOMAIN-SUFFIX,bakucitycircuit.com
+
+# 🇨🇦 Canadian Grand Prix
+DOMAIN-SUFFIX,gpcanada.ca
+DOMAIN-SUFFIX,montrealgrandprix.com
+
+# 🇬🇧 British Grand Prix
+DOMAIN-SUFFIX,silverstone.co.uk
+
+# 🇦🇹 Austrian Grand Prix
+DOMAIN-SUFFIX,f1austria.com
+
+# 🇫🇷 French Grand Prix
+DOMAIN-SUFFIX,gpfrance.com
+
+# 🇭🇺 Hungarian Grand Prix
+DOMAIN-SUFFIX,hungaroring.hu
+
+# 🇧🇪 Belgian Grand Prix
+DOMAIN-SUFFIX,spagrandprix.com
+
+# 🇳🇱 Dutch Grand Prix
+DOMAIN-SUFFIX,dutchgp.com
+
+# 🇮🇹 Italian Grand Prix
+DOMAIN-SUFFIX,monzanet.it
+
+# 🇸🇬 Singapore Grand Prix
+DOMAIN-SUFFIX,singaporegp.sg
+
+# 🇯🇵 Japanese Grand Prix
+DOMAIN-SUFFIX,suzukacircuit.jp
+
+# 🇺🇸 United States Grand Prix
+DOMAIN-SUFFIX,circuitoftheamericas.com
+
+# 🇲🇽 Mexican Grand Prix
+DOMAIN-SUFFIX,mexicogp.mx
+
+# 🇧🇷 Brazilian Grand Prix
+DOMAIN-SUFFIX,f1saopaulo.com.br
+
+# 🇦🇪 Abu Dhabi Grand Prix
+DOMAIN-SUFFIX,yasmarinacircuit.com
+
+
+# Not in 2022 Calendar
+# 🇷🇺 Russian Grand Prix (cancelled due to obvious reason)
+DOMAIN-SUFFIX,rosgonki.ru
+
+# 🇺🇸 Las Vegas Grand Prix (comming 2023)
+DOMAIN-SUFFIX,f1lasvegasgrandprix.com
+
+# 🇨🇳 Chinese Grand Prix (contract agreed to 2025)
