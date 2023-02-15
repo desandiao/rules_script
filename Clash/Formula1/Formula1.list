@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,f1tv
 DOMAIN-KEYWORD,formula1.com
 DOMAIN,support.f1.tv
 DOMAIN,f1-api-cdn.opin.media
+DOMAIN,imasdk.googleapis.com
 
 #ACL4SSR
 DOMAIN-SUFFIX,f1.com
