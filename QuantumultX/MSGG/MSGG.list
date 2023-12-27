@@ -13,10 +13,10 @@ DOMAIN-SUFFIX,www.gcash.com
 DOMAIN-KEYWORD,gcash
 
 # Smart
-DOMAIN-SUFFIX,.smart.com.ph
-DOMAIN-SUFFIX,*.smart.com.ph
-DOMAIN-SUFFIX,smart.com.ph
-DOMAIN-SUFFIX,app1.smart.com.ph
+#DOMAIN-SUFFIX,.smart.com.ph
+#DOMAIN-SUFFIX,*.smart.com.ph
+#DOMAIN-SUFFIX,smart.com.ph
+#DOMAIN-SUFFIX,app1.smart.com.ph
 
 # Maya
 DOMAIN-SUFFIX,cryptosrvc.com
