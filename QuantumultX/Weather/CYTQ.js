@@ -6,7 +6,7 @@
 [rewrite_local]
 
 # > 彩云天气 解锁vip
-^https?:\/\/biz.cyapi.cn\/(p\/v1\/user_info|v2\/user).*$ url script-response-body https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js
+^https?:\/\/biz.cyapi.cn\/(p\/v1\/user_info|v2\/user).*$ url script-response-body https://raw.githubusercontent.com/desandiao/rules_script/main/QuantumultX/Weather/CYTQ.js
 
 [mitm] 
 hostname = biz.cyapi.cn
